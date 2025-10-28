@@ -3,5 +3,9 @@ p {
 }
 
 ol {
+    color: aqua;
+}
+
+ol {
     border-bottom: 1px;
 }
