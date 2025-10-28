@@ -1,3 +1,7 @@
-p{
+p {
     margin-left: 0;
+}
+
+ol {
+    border-bottom: 1px;
 }
