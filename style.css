@@ -1,7 +1,15 @@
-p{
+p {
     margin-left: 0;
 }
 
-ol{
+ol {
     color: aqua;
+}
+
+ol {
+    border-bottom: 1px;
+}
+
+p {
+    color: red;
 }
