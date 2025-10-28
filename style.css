@@ -9,3 +9,7 @@ ol {
 ol {
     border-bottom: 1px;
 }
+
+p {
+    color: red;
+}
